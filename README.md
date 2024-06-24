@@ -9,6 +9,18 @@ Tasks:
 3. API Endpoint: Create an endpoint that receives an image, processes it to extract facial features, and saves a "profile" of these features.
 4. Create a use case showing how this "facial profile" could be used to identify a separate image as real.
 
+
+## What we are looking for:
+
+1. Well structured code
+2. A Creative Solution that shows an understanding of the problem
+3. Documentation supporting why you made the decisions you made!
+
+## Bonus Points
+1. Additional API endpoints that support the detection aspect (using the profile)
+2. Deep documentation on how to use the API using the FastAPI docs
+3. Highly creative profile creation
+
 # Facial Profile Creator Project Skeleton Code
 
 ## Development Setup
@@ -18,7 +30,7 @@ Tasks:
 
 ## Installation
 1. Clone the repository:
-```git clone [repository-url] ```
+```git clone https://github.com/Identif-AI/recruiting-challenge.git ```
 2. Install dependencies:
 ``` pip install -r requirements.txt ```
 3. Run the server locally:
@@ -52,6 +64,7 @@ def analyze_face(image):
     # Implement facial analysis logic or use a model/library
     # Example: "Face with high cheekbones, oval shape, and light brown eyes."
     return "Example facial profile based on analysis."
+
 
 ```
 
