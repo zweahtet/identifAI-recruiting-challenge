@@ -1,7 +1,7 @@
 # IdentifAI Recruiting Challenge
 
 Objective: Develop a FastAPI application that allows users to upload an image and generates a "facial profile" that describes key characteristics of the face which define its reality.
-Timeframe: You have however long you would like! Just let us know when you start so we can keep track. The project in total shouldn't take longer than 3 days, however we understand some may have busy schedules!
+Timeframe: You have until June 29th! Just let us know when you start so we can keep track. The project in total shouldn't take longer than 3 days, however we understand some may have busy schedules!
 
 Tasks:
 1. Setup FastAPI Server: Develop a basic FastAPI server to handle image uploads.
