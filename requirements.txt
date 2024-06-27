@@ -1,2 +1,5 @@
 fastapi
 pillow
+dlib
+opencv-python-headless
+deepface
