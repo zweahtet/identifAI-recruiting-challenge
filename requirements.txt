@@ -1,5 +1,8 @@
 fastapi
+pydantic
 pillow
-dlib
 opencv-python-headless
 deepface
+scikit-image
+tf-keras
+uvicorn
