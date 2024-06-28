@@ -1,6 +1,7 @@
 fastapi
 pydantic
 pillow
+dlib
 opencv-python-headless
 deepface
 scikit-image
