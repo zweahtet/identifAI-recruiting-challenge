@@ -6,3 +6,5 @@ deepface
 scikit-image
 tf-keras
 uvicorn
+torch 
+torchvision
